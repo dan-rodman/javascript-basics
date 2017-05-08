@@ -1,6 +1,9 @@
 /* 
 This is the quick and dirty way of solving Problem 3 of Project Euler.
-I wanted to try my hand at re-inventing the wheel a little with calculating primes on my own, but the fastest way to solve this is to already have a list of primes ready to go. This script has the first 10,000 prime numbers stored inline for fast access. Gets the answer but isn't nearly as fun to make. 
+I wanted to try my hand at re-inventing the wheel a little with calculating primes on my own, 
+but the fastest way to solve this is to already have a list of primes ready to go. 
+This script has all prime numbers below 10,000 stored inline for fast access. 
+Gets the answer but isn't nearly as fun to make. 
 
 */
 
